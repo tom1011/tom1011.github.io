@@ -6,7 +6,7 @@ overflow: hidden;
 display: 
 }
 
-hr {
+.hr {
     display:block;
     border:none;
     color:white;
