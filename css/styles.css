@@ -41,6 +41,8 @@ hr {
 .contactstext{
    font-size: 30px;
    color:white;
+    position: absolute;
+    top: 50%;
 }
 
 
