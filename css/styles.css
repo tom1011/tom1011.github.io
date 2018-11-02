@@ -43,17 +43,4 @@ hr {
    color:white;
 }
 
-.centeredleft {
-    position: absolute;
-    top: 50%;
-    left: 80px;
-    transform: translate(-50%, -50%);
-}
-
-.centeredright{
-    position: absolute;
-    top: 50%;
-   right: 40px;
-    transform: translate(-50%, -50%);
-}
 
