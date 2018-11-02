@@ -31,7 +31,7 @@ hr {
 
 .contacts{
    background-color: #000089;
-   height: 60px;
+   height: 40px;
    background-position: center;
     background-repeat: no-repeat;
   background-size: cover;
@@ -39,7 +39,7 @@ hr {
 }
    
 .contactstext{
-   font-size: 30px;
+   font-size: 25x;
    color:white;
 }
 
