@@ -5,8 +5,6 @@ color: #fff;
 overflow: hidden;
 }
 
-
-<style>
 hr {
     display:block;
     border:none;
@@ -15,4 +13,4 @@ hr {
     background:black;
     background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 350, from(#000), to(#fff));
 } 
-</style>
+
