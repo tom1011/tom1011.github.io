@@ -18,6 +18,11 @@
    font-size: 140px;
 }
 
+.borderpad {
+  padding-left: 80px;
+   padding-right: 40px;
+}
+
 hr {
     display:block;
     border:none;
