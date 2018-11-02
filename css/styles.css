@@ -1,5 +1,12 @@
 .heading { 
- background-image: url("https://wallpaper-house.com/data/out/9/wallpaper2you_323860.jpg");
+   background-image: url("https://wallpaper-house.com/data/out/9/wallpaper2you_323860.jpg");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
 }
 
 hr {
