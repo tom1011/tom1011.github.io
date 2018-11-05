@@ -1,4 +1,4 @@
-.headinges { 
+.headings { 
    background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/00/14/61/7856639324bb6f6.jpg");
   background-color: #cccccc;
   height: 500px;
@@ -6,6 +6,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+   width: 100vw;
 }
 
 .headingtext{
@@ -43,4 +44,6 @@ hr {
    color:white;
 }
 
-
+bodt {
+   margin:0px;
+}
