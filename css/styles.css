@@ -31,6 +31,7 @@ hr {
 } 
 
 .contacts{
+   padding: 15px;
    background-color: #000028;
    height: 80px;
    background-position: center;
